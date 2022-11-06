@@ -8,3 +8,6 @@ In this we add five criteria for the filter search: the date,city,state,country,
 https://github.com/feven27/UFOs/blob/main/New%20folder/fact%20or%20fancy.png
 https://github.com/feven27/UFOs/blob/main/image/filter.png
 https://github.com/feven27/UFOs/blob/main/New%20folder/UFOs%20table.png
+
+#Summary 
+This analysis is very informative for those who are interested in UFOs sightings. This analysis saves your time from going from one webpage to another. We have gathered the information at one by using "web scraping". but for the accurate info to appear we need to type the specific dates, city,state,country and shape also spelling and capitalization matters. Overall this was fun and Dana is satisfied with the result.

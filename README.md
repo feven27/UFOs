@@ -6,4 +6,5 @@ The purpose is to build tables using data stored in JavaScript, create filters t
 In this we add five criteria for the filter search: the date,city,state,country,and shape at the same time. As you can see in the table there are also 2 more in table duration and comments. For someone looking for information based on what we provide in the table, we should be able to enter the country,state,date,shape and city. In the following table you'll see the table, the table and the image we used from nasa for the title.
 
 https://github.com/feven27/UFOs/blob/main/New%20folder/fact%20or%20fancy.png
+https://github.com/feven27/UFOs/blob/main/image/filter.png
 https://github.com/feven27/UFOs/blob/main/New%20folder/UFOs%20table.png
